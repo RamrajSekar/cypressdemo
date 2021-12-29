@@ -8,6 +8,7 @@
     -   Run node_modules\.bin\cypress open
     -   Current version is 9.2.0
 
--   Best Practises To Follow:
+-   Sites For Reference:
+    -   https://dev.to/walmyrlimaesilv/best-practices-in-test-automation-with-cypress-49ee
     -   https://dev.to/walmyrlimaesilv/how-to-run-tests-in-headless-mode-with-cypress-3meo
     -   https://docs.cypress.io/api/commands/session#Usage
