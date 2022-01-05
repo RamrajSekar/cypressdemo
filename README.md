@@ -15,6 +15,7 @@
     -   https://dev.to/walmyrlimaesilv/how-to-run-tests-in-headless-mode-with-cypress-3meo
     -   https://docs.cypress.io/api/commands/session#Usage
     -   https://cypress.tips/?s=08
+    -   https://lambdageeks.com/cypress-example-cypress-test-examples/#folder
 
 -   Understand Cypress
     -   https://www.linkedin.com/pulse/understand-background-cypress-test-automation-infogen-labs-/
